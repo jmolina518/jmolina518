@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Front End Developer currently working on React.js projects. Coffee is fuel!!!
+Font-End Developer based out of Houston, TX
+
+- 🔭 I’m currently working on Scrimba's Vue Bootcamp
+- 🌱 I’m currently learning Vue.js
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with landing my first tech job
+- 💬 Ask me about anything to do with The Office
+- 📫 How to reach me: jmolina518@gmail.com
+- ⚡ Fun fact: I love sloths!
