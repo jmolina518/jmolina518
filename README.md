@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Font-End Developer based out of Houston, TX
+Fontend Developer based out of Houston, TX
 
-- 🔭 I’m currently working on Scrimba's Vue Bootcamp
-- 🌱 I’m currently learning Vue.js
+- 🔭 I’m currently working on Scrimba's The Frontend Developer Carrer Path
+- 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with landing my first tech job
 - 💬 Ask me about anything to do with The Office
