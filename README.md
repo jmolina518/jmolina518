@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Frontend Developer 
+I am a Frontend Developer 
 
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking to land my first tech job
+- 👯 Looking to collaborate on open source projects
+- 🤔 Ready to land my first tech job
 - 💬 Ask me about anything to do with The Office
 - 📫 How to reach me: jmolina518@gmail.com
 - ⚡ Fun fact: I love tacos!
